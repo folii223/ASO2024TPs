@@ -1,0 +1,35 @@
+tareas_SIN_hilos.py 
+
+La tarea 1 en todas las ejecuciones tardo mas de 6 segundos, la tarea 2 tardo 1 segundo mientras que la tarea 3 4 segundos 
+
+El orden de los vehiculos al parar en un semaforo en rojo esperando luz verde/ compilar un codigo escrito en c# 
+
+Tiempo de carga de una pagina web 
+
+ 
+
+tareas_CON_hilos.py 
+
+Ejecutar varias veces el código  
+
+Se ejecutan los 3 procesos simultaeos y ejecuta primero el proceso 2, despues el 3 y por ultimo el 1. Se puede notar una mejora de 5 segundos comparado con el codigo sin hilos  
+
+No, las funciones completan su ejecucion sin orden. 
+
+El navegador gps, carga mapas, busca rutas y muestra informacion del trafico 
+
+ 
+
+sumador-restador.py 
+
+El resultado es 0 ya que la variable acumulador es inicializada en 0 y se le asigna a tmp, la cual se vuelve a asignar a acumulador 
+
+Ejecuta dos funciones en hilos separados aumentando y disminuyendo el valor del acumulador en 5, los hilos se ejecutan por lo que las dos operaciones se ejecutan en simultaneo y muestra el valor de la variable acumulador, este mismo puede variar 
+
+ 
+
+Sumador restador sin race 
+
+El valor del acumulador siempre termina siendo 0 
+
+Se puede notar que al ejecutar ambas operaciones en paralelo, el tiempo total de ejecución del programa será menor en comparación con ejecutar las operaciones secuencialmente 
